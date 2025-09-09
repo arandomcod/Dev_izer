@@ -1,1 +1,1 @@
-py -m streamlit run c:/Users/Timothee/Desktop/DEV3/devis.py
+py -m streamlit run devis.py
